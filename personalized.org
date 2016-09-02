@@ -1,0 +1,24 @@
+* Week 1: Intro to Personalized Medicine
+** Fundamental Definitions and Concepts
+*** Into
+    - 
+*** Genetics Definitions Part I
+    - 
+*** Genetics Definitions Part II & Types of Genetic Variants
+    - 
+*** Data Analysis Part I
+    - 
+*** Data Analysis Part II
+    - 
+** Drug Actions and Reactions
+*** Drug Therapy and General Mechanisms Underlying Variability in Drug Response
+    - 
+*** Variability in Drug Therapy 
+    - 
+*** Drug Metabolism & Transport
+    - 
+*** Genetic Variability in Drug Handling Molecules
+    - 
+*** Inside VUMC: The Promise of Personalized Medicine
+    - 
+
