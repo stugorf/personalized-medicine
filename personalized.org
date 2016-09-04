@@ -1,22 +1,189 @@
 * Week 1: Intro to Personalized Medicine
 ** Fundamental Definitions and Concepts
 *** Into
+    - Vanderbilt made commitment 10 yrs ago
+    - Integration into EMR
+    - Sequencing and generation of genetic data is driver
+    - Dr. Roden
+    - Best we can given the evidence we have for each pt
     - 
+    - hippocrates said more important what sort of person has a disease rather than the disease the person has
+    - Osler: great physician treats the patient
+    - personalized medicine has been around for very long time
+    - we now have new tools to understand individual variability
+    - modern computer tech allows us to analyze DNA
+    - science of DNA and managing big data are two advances driving personalized medicine
+      - allow us to see differnences in people
+      - look for patterns in EMR, DNA, proteins
+    - engage pts in their own care but they also vary in their excitment about this new knowledge
+      - education, raising, culture, religion
+      - access to Internet is driving pt access to medical knowledge
+    - Purkinjie Caech republic discovered everyone has unique fingerprint
+    - how do we transmit genetic information from one generation to another
+    - 19th century Gregor Mendel discovered by breeding peas genetic system
+      - phenotype is physical characteristic
+      - smooth vs. crinkeled peas
+    - Watson & Crick in 1950s described DNA structure
+      - in a single page Nature publication won Nobel Prize
+      - drawing was by his wife
+      - structural biologist and suggest it may have something to do with genetic information
+      - from structure, to function
+      - they understood that the pairing of DNA rungs AT CG allow for mechinism of copying and passing on genetic information
+      - unwinding results of copies that can duplicate original structure
 *** Genetics Definitions Part I
-    - 
+    - DNA is long molecule, organized in nucleus of cell and wound into centromeres and those form chromosomes
+    - 22 pairs of chromosomes (autosomes) and 1 pair of sex chromosomes for 23 totals
+    - longest is 1st pair and smallest is 22
+    - gamete cells only have half of each chromosome (random)
+    - Y chromosome always from his father's line
+      - track lineage
+    - maternal line of DNA is in mitochondria
+      - mitochondrial DNA
+      - from cytoplasm of egg cell which has mitochondria
+    - central dogma of genetics
+      - genetic info encoded in DNA
+      - can be copied
+      - can make single strand called RNA
+	- has same four bases but T becomes U but are similar
+	- template for making proteins
+	  - hair, liver functions, heart functions, etc...
+	  - proteins made of blocks of 20 amino acids
+    - Protein
+      - gene's encode protein but most DNA is non-coding
+      - most DNA is regulatory for the 1% that encodes proteins
+      - specific regions, promoter regions that allow RNA polymerase to bind
+      - RNA exported from nuclease (messenger RNA) into cytoplasm which encodes protien
+      - gene can be very long structure but out of 100s of thousands of base pairs only a 1000 may be encoding
+      - variation in non-coding regions may affect mRNA expression but not protein coding sequence
+      - DNA -> mRNA -> exons and introns (introns are larger)
+      - splicing deletes intronic material
+      - splicing cannot also result in different exon sequences
+      - one gene can encode different proteins
+      - ribosome attaches to mRNA and 3 letter codon
+      - each codon encodes a amino acid
+      - each RNA translates into unique protein where ribosome is processsor of process
+      - 64 different combinations of codons with redundancy make all amino acids
+      - redundancy allows for DNA change but still result in same proteins
+      - proteins assume alpha helix or beta pleated sheet
+      - proteins can bind and becom multi protein complex that then acheives functionality of proteins
+      - for example in liver cell some genes are activated, expressed to provide functionality
+      - when changes in DNA like a deletion of sequence may result in different proteins or complexes which can result in disease or reaction to drugs
+      - common form of variation is in single base pair which can change an amino acid which may or may not result in a signifiant change.
 *** Genetics Definitions Part II & Types of Genetic Variants
-    - 
+    - 247 million base pairs, 2,825 genes in chromosome 1
+    - 3 billion base pairs, 25,000 genes in total. 6 billion total in each cell
+    - variation occurs at single DNA nucleotide paris and some at chromosome
+    - genomes are entire genetic structure for organism
+    - dog and chimp similar to human
+    - mammoth DNA is available and could be used to make one
+    - our current DNA has streches of neanderthal DNAz
+    - chromosome come in pairs
+    - in chromosome 21 a third chromosome causes cardiac and neurological disfunction
+    - also at chromosome level at 9 and 22 an extra tail section is swapped at each and chromosome 22 gets Philadelphia chromosome casuses CML
+    - translocations, substitutions, duplications, deletions, inversions
+    - a lot of variation occurs at single base pair that is hard to visualize
+    - non-coding can still affect gene regulation
+    - single change base pair and single amino acid which is a single nucliotide polymorphism...or a SNP (snip)
+    - truncated protein can result in nonsense mutation which is non functional
+    - one base pair insertion can throw off protein that has different sequence and can result in abnormal function
+    - SNP types that are present in regions of DNA that encode genes (exome) can have impact on phenotype are: missense, non-sense, frameshift and synonymous varianat
+    - variations are not necessarilary a cause of disease, we do not have enough information yet to fully know
+    - rare polymorphisims not always cause a disease
+    - Familial hyper cholesteremia caused by single nucleotide
+    - marphan's syndrome also single nucleotide polymorphism caused
+    - cystic fibrosis and sickel cell caused by polymorphism of single nucleotide
 *** Data Analysis Part I
-    - 
+    - garbage in garbage out
+    - data must be high quality
+    - insure high quality goes into system
+    - can test data quality by doing randomized clinical trial to test drug or intervention
+    - must make sure that both populations in a control or test group are the same in all dimensions other than test
+    - assigning to a group should be random or from a natural seggregation
+    - all other comorbidities should be same
+    - odd ratios or relative risk
+      - odds are division of those with trait over total
+      - then compare odds or risk of each group by dividing
+    - P value is what is the propbability
+      - think of dice example
+      - two dice is P = 1/6 squared
+    - multiple comparisons can introduce error in analysis
+   
 *** Data Analysis Part II
-    - 
+    -  - evaluating how good new test are
+      - reference test is the standard
+      - new test examined to work better
+      - for example measure serum BMP for heart attack
+    - use clinical factors to predict disease
+    - both new and reference have true positive and true negative
+    - new test has type I error of false positive
+    - new test will have fasle negative rate
+    - evaluate new test using sensitivity = true positives/true negative
+    - true negative / false positive = specificity
+    - true postives to false positive realted to population
+      - reciever operator curve
+      - sensitivity over specificity results in area under curve
+    - AUC of 0.7 is good but .95 is great
 ** Drug Actions and Reactions
 *** Drug Therapy and General Mechanisms Underlying Variability in Drug Response
-    - 
+    - 2012 stats
+      - US 3 trillion dollars on healthcare with most to hosp and professional
+      - 10% to drugs
+    - randomized trial creates control and comparison group
+    - comparitor tx may be sugar placebo or standard tx
+    - in some cases some trials do not have a clear result
+    - tx, and results have to consider side effects
+    - choice often depends on seriouness of disease and side effects
+    - rare side effects
+      - angiedema from ACE inhibitors: swelling of throat and tongue
+      - hemolytic anemia: destruction of red blood cells from malaria tx
+    - intracerebral hemorrhage: due to blood thinging meds
+    - myositis: from statins for hyperlipidemia of high LDL
+    - 1994 estimates
+      - 2.2 millionin hosp
+      - rare per physician but important for hosp
+      - 106,000 deaths from ADE 6th leading cause of death
+      - resulted in To err is Human report
+    - 2010 report from state of SC shows still exist
+    - 300 deaths per day in US
+    - should be a question for each patient rather than population
 *** Variability in Drug Therapy 
-    - 
+    - we see variable responses to drugs by pt and pop
+    - age, sex, ancestory can cause variability
+    - must always ask was dx correct
+    - drug interactions
+    - environment
+      - diet
+    - did pt taking med: some estimates are 50% do not take appropriately
+      - 25% not take at all
+    - did pt get med/drug as perscribed
+    - a common LDL statin in african american showed 41% decrease in LDL after 6 weeks
+      - some had less and some had up to 80% response
+    - drug response is seldom 100%
+    - sometimes as low as 30%
+    - sometimes drug can work better than expected: ex blood thinners
+    - sometime off target reaction is not what was expected
+    - background event side effect (like Vioxx) is hard to determine cause
+    - Molecular mechanism of action
+      - G protein receptors
+      - hormone couples to receptor and changes protein which signals cells to change release of a chemical for example
+    - we have drugs that bind receptors to stop G-protein coupled receptors
+      - very common target
+      - dose, plasma distribution, elimination, tissue absorption
+    - once a drug is in plasma the molecular target is next step
+    - must access molecular site of action to produce it's effect
+    - one source of variability can be other drugs that affect binding, is dx right, genetic variance of target; organ function
+    - placebo effect
+      - give pts drugs with suggested response and they will have it
 *** Drug Metabolism & Transport
-    - 
+    - CYP2C Phase I site of enzymatic action
+      - CYP3A4/5/7 most important
+    - decreased drug absorption can result in high levels
+    - Van Gogh painted his doctor with foxglove: Dr. Gachet
+    - high dig causes yellow halos visually and his doctor may have given him too high digoxin levels
+    - dig is not metabolized and is excreted in bile unchanged
+    - dig is moved from one side of cell membrane via cell transport
+    - drug transport molecules can move drug into cells or into system from cell
+    - MDR1 encodes P-glycoprotein is a drug transporter for dig
 *** Genetic Variability in Drug Handling Molecules
     - 
 *** Inside VUMC: The Promise of Personalized Medicine
