@@ -185,7 +185,235 @@
     - drug transport molecules can move drug into cells or into system from cell
     - MDR1 encodes P-glycoprotein is a drug transporter for dig
 *** Genetic Variability in Drug Handling Molecules
-    - 
+    - 100 years ago Garret studied inborn errors in metabolism
+    - affected people have error: such as phenoalanine
+    - typially affects young people
+    - enzymes of cascade of reactions where enzymes do not work appropriately
+    - around 20th century Garret showed that drugs are metabolized and if there is an error in ability to metabolize then drug will be higher conenctration
+    - african american troops got hemelytic anemia due to G6PD deficientcy and when they got antimalarial drug they had a poor reaction
+    - malignant hyperthermia from anesthesia due to genetic defect
+    - Victor McCusic created dictionary of genetic variance that were silent until exposed to drugs
+      - first MIM mendelian inheritence in man
+    - CYP2D6
+      - one of most important drug metabolizing enzyme
+      - experiemnt looks at drug and metabolite in blood to determine CYP2D6 activity
+      - 5-10% are poor metabolizers and have maternal and paternal variance in copies of gene
+      - many differnt gene variance can cause metabolization issue, not just one
 *** Inside VUMC: The Promise of Personalized Medicine
-    - 
+    - more discovery is moving from large clinical trials to individual pt
+**** Quiz
+1. 
+DNA is a collection of long molecules comprised of billions of nucleic acids, of which about 1% represents regions that code for proteins. How might a mutation or genetic variant in non-coding regions of DNA impact an individual’s phenotype?
 
+a) It can impact the expression of mRNA.
+Correct Response 
+Variation in non-coding regions can modulate regulatory regions within DNA that impact the levels and patterns across tissues of mRNA expression within a cell.
+
+Genetic variation in non-coding regions (outside of gene boundaries) does not change the coding sequence of mRNA and, thus, does not alter the sequence of a protein. Hence, these sources of variation do not impact protein sequence or RNA stability. Redundancy refers to the fact that different codons (groups of 3 nucleic acids) in a mRNA sequence can encode the same amino acid in a protein. Redundancy is only relevant for variants that lie within DNA regions that encode genes. Interestingly, there are some data that a polymorphism that does not change the encoded amino acid can nevertheless lead to changes in the way in which the translated protein is folded as it is generated. That change, in turn may alter protein function.
+
+b) It can change the sequence and function of a protein.
+
+c) It can alter the stability of mRNA.
+
+d) It does not impact a phenotype because of redundancy (degeneracy) in the genetic code.
+
+Correct
+1 / 1 points
+2. 
+Among the single nucleotide polymorphism (SNP) types that are present in the regions of DNA that encode genes (i.e. the exome), which can have an impact on a phenotype (check all that apply).
+
+a) Missense variant
+Correct Response 
+Each of the variants can have an impact on the phenotype. Missense, Non-sense and frameshift variants alter the sequence of mRNA and, thus, impact the amino acid sequence and, possible the function, of a protein. A synonymous variant is an amino acid change within the reading frame that does not alter the protein sequence (because of redundancy in codons). However, these variants can alter the stability of the mRNA which can impact the levels of proteins made within a cell.
+
+b) Non-sense variant
+Correct Response 
+Each of the variants can have an impact on the phenotype. Missense, Non-sense and frameshift variants alter the sequence of mRNA and, thus, impact the amino acid sequence and, possible the function, of a protein. A synonymous variant is an amino acid change within the reading frame that does not alter the protein sequence (because of redundancy in codons). However, these variants can alter the stability of the mRNA which can impact the levels of proteins made within a cell.
+
+c) Frameshift variant
+Correct Response 
+Each of the variants can have an impact on the phenotype. Missense, Non-sense and frameshift variants alter the sequence of mRNA and, thus, impact the amino acid sequence and, possible the function, of a protein. A synonymous variant is an amino acid change within the reading frame that does not alter the protein sequence (because of redundancy in codons). However, these variants can alter the stability of the mRNA which can impact the levels of proteins made within a cell.
+
+d) Synonymous variant
+
+Correct Response 
+Each of the variants can have an impact on the phenotype. Missense, Non-sense and frameshift variants alter the sequence of mRNA and, thus, impact the amino acid sequence and, possible the function, of a protein. A synonymous variant is an amino acid change within the reading frame that does not alter the protein sequence (because of redundancy in codons). However, these variants can alter the stability of the mRNA which can impact the levels of proteins made within a cell.
+
+Correct
+1 / 1 points
+3. 
+An investigator wants to know whether a genetic variant is associated with an adverse drug reaction. The investigator selects a group of cases (subjects who had the adverse reaction) and a group of controls (subjects who took the drug but had no reaction). The cases were identified using hospital admission records while the controls were identified through a community center. How will this study design impact the p-value for the comparison of the two groups?
+
+a) It will give a lower (more significant) p-value.
+
+b) It will give a higher (less significant) p-value.
+
+c) It will not change the p-value.
+
+d) The change cannot be predicted.
+Correct Response 
+The change cannot be predicted. A concerning feature of this study design is that cases and controls were selected from different populations, and thus may have baseline differences that could potentially impact the results of the analysis. There is insufficient information to ascertain how potential biases related to case and control selection might impact the outcome. Thus, the impact on the p-value cannot be predicted.
+
+Correct
+1 / 1 points
+4. 
+For any screening test, there is often a trade-off between sensitivity and specificity. In what situation would it be most desirable to have a test with high sensitivity, but low specificity?
+
+a) A disease that is rare, life-limiting, and the treatment is safe and effective.
+Correct Response 
+A test with high sensitivity but low specificity will do a good job of identifying true positives (cases), but may also identify many false positives. Such a test is most valuable when screening for diseases where identifying cases is critical (such as with a life-limiting disease) and when there are treatment options that are effective. In the other situations described, this need to maximize identification of true positives is not as pressing. If the treatment options are also safe, then it may be acceptable to have a relatively high false positive rate, as the risk to these subjects may be minimal. The critical issue is to identify true positives; further testing may also be used to identify false positives.
+
+b) A disease that is rare, associated with minimal morbidity, and there is no treatment.
+
+c) A disease that is rare, associated with minimal morbidity, and the treatment has many complications.
+
+d) A disease that is common, and there are no available treatments.
+
+Correct
+1 / 1 points
+5. 
+The antiplatelet drug clopidogrel, discussed in later modules, is a “pro-drug” meaning it must be metabolized to active metabolites to exert its pharmacologic effect which is to inhibit ADP receptors on the surface of platelets. Which one of the following would result in decreased antiplatelet effects?
+
+a) Increased metabolism
+
+b) Decreased distribution to peripheral tissues
+
+c) Increased absorption
+
+d) Coadministration of a drug that inhibits clopidogrel metabolism
+Correct Response 
+Increased metabolism would generate more active metabolite and greater drug effect. The drug target is in the central circulation (the platelet) so decreased distribution out of the central circulation to the periphery would if anything increase drug effect. Increased absorption would similarly make more drug available for metabolism and thus platelet inhibition. Coadministration of a drug that inhibits clopidogrel bioactivation would decrease the amount of active metabolite generated and this decrease drug effect. As discussed later, specific genetic variants can affect clopidogrel bioactivation.
+
+Correct
+1 / 1 points
+6. 
+When would knowing that a patient is a CYP2D6 poor metabolizer be **most** useful?
+
+a) Anytime, because so many drugs are metabolized by CYP2D6
+
+b) When a CYP2D6 substrate drug is prescribed
+
+c) When a drug bioactivated by CYP2D6 is prescribed
+Correct Response 
+All of the responses could be acceptable, but of the choices given, (c) is probably closest to the best answer, since a poor metabolizer will show no effect of a drug that is bioactivated by CYP2D6.
+
+(d): High drug concentrations and toxicity are likely if a drug bioinactivated by CYP2D6 is given to a poor metabolizer. In this case, the risk is greatest if there are no other pathways for drug elimination and the drug produces serious toxicity at slightly elevated drug concentrations. Conversely, the risk is smaller if there are other pathways for drug elimination and if toxicity only occurs at very elevated drug concentrations.
+
+(a): Some advocates of pharmacogenetics argue that we should all have genotypes for important drug metabolizing pathways embedded in our electronic medical records in case a substrate drug is prescribed, and as described in later modules, experiments to test this idea are underway in some medical systems.
+
+d) When a drug bioinactivated by CYP2D6 is prescribed
+
+(b): An alternative is to do testing when a substrate drug is prescribed, but here the obstacle is that there are many genetic variants that need to be tested for, and the time delay between prescribing the drug and getting a genetic test result may be too long to tolerate in practice.
+* Week 2: Studying Genetic Variation
+** Finding Genetic Variance in Families & Populations
+*** Family Hx & Inheritance Patterns
+   - Mendelian Diseases
+     - British Royal Family had paternal linked disease
+     - Heamophilia & earlier w/ Mad George III had Porphyria
+     - Key feature of familial diseases is to construct family tree where male are square and female circle
+     - autosomal dominate meaning its transfered in autosome and only requires single copy
+     - only requires single gene out of thousands in chromosome
+     - 50% chance of carrying disease
+     - abnormal copy is usually small case letter
+     - variable penatrance means a person can be a carrier but not develop disease
+       - if children develop disease in this case then parent was an obligate carrier: had to be a carrier
+     - examples are familial hypercholestremia (LDL) and Marphans
+     - sex linked disease transferred on X chromosome
+       - mother can be carrier and pass the affected X chromosome to son
+       - a daughter can be a carrier but not develop disease
+       - 50% chance of carrier or male develop
+     - Mitochondrial DNA can transmit disease
+     - Autosomal Recessive
+       - 1:30 in white parents and 25% chance where 1:3600 but 30% carrier
+       - Rare where parents are both carries and result in recessive disease
+       - 25% chance of development
+       - 50% are carrier
+       - increases with related parents
+     - 3:1 ratio for recessive conditions
+     - heterozygous is carries one copy of a disease
+     - Increasingly diseases that run in families where variable penetrance can confuse issue
+       - If a Father dies of stomach cancer, should a daughter be concerned
+       - where an aunt had uterine cancer and grandfather had polyps then maybe chance for Lynch Syndrome
+     - Personalized Medicine requires accurate family trees.
+       - get family history
+*** Ancestry: Genetic Variation Across Generations & Geography
+    - Stretch of DNA with SNPs
+    - de novo mutations are very rare and most humans have ~100 with only one in a encoding region
+    - over time become less like family line
+    - haplotype: a series of SNPs that travel together
+      - occasionally the sequence where common SNPs infer others
+      - known as linkage disequilibrium
+      - in general African American have less linkage disequilibrium
+	- related to our common ancestory out of Africa
+      - for example: all cheetahs come from a common set of parents
+	- not a lot of genetic variation
+      - migration from Africa results in decreasing genetic variation
+      - Kya = thousand years ago
+    - ice berg concept is if population seperated by half then diversity is upheld but small segments from main population it will have less variation and de novo variants will create 'founder populations' that are unique from original population
+    - sickle cell more common from areas where malaria is prevelent
+      - thought that sickle cell infers resistance to malaria
+    - populations that have been established from origins tend to procreate locally and along with de novo variations results in unique genetic variance
+*** Finding Disease - Associated Genes: Linkage
+    - obligate carrier
+      - autosomal dominate transmission
+    - Places in genome that are variable support linkage analysis
+      - SNP, Repeat Variants: both allow for mapping
+      - di and tri nucleotide repeates allow for accurate mapping
+    - Logrithm of Odds Ratio = Lod Score
+      - suggest that correct region of genome causing disease
+      - >= 3 is evidence
+      - < 2 can rule out cause
+    - must have large populations to use linkage approach
+    - newer sequencing techniques can allow analysis on smaller populations or where Fam Hx is not well known
+** Contemporary Techniques & Technologies Used to Study Genetic Variation
+*** Genome-Wide Association
+    - haplotypes compared using chips to determine SNPs
+    - Dr. White found that athlerosclerosis runs in families
+    - In populations
+      - identify individuals in a population that have a feature
+      - afib for example can be studied
+      - some people cannot detect urine smell of post asparagus eating
+    - Take a population and phenotype for feature; large population required
+    - apply genotyping and establish SNPs related to feature
+    - P values are low
+      - P = 5 < 10^-8
+    - increasing population size can significantly bring signal out of noise
+    - PITX2 gene related to AFIB on chromosome 4
+    - In genotyping some SNPs may overlap and indicates disequilibrium
+    - ~1% of genome codes for proteins, the rest is regulatory in function
+    - GWAS started in 2005
+      - analyze heritability
+      - new drug targets
+      - predict risk
+      - understand/prevent adverse drug effects
+*** Sequencing
+    - How to collect enough DNA to perform genotyping or SNP analysis
+    - PCR (polymerase chain reaction)
+      - Dr. Mullis won Nobel Prize
+      - take large sequence (samll amount) of DNA and denature/separate
+      - take resulting two strands and create complimentary strands of area of interest
+      - elongate DNA section to create template to replicate DNA molecule
+      - process becomes exponential in replication process
+    - Sanger sequencing method was original method for sequencing
+      - safer than Gilbert method which relies on radiation
+      - dideoxy terminates reaction
+      - using fluerecense of dideoxy can light detection to measure count of sequence lengths
+      - each color associated with a unique base pair
+    - A full genome can be sequenced for ~$1,000
+      - take families with Mendelian diseases and study
+      - rare phenotypic traits
+    - sequencing of a single individual using next gen techniques can yeild identification of a variant in cases where familiy is intermix or otherwise unique
+    - Sequence the DNA of a tumor vs. DNA of host patient
+      - studying AML
+      - identified 8 variants for AML in 2008 and establish potential drug targets
+      - USB connect to PC and w/drop of blood in hours result in personal genome
+	- millions of resulting variants in genome (5~10K in exome)
+	- $1000 genome w/ Million dollar informatics problem
+**** Quiz Prep
+    - Brother & Sister have rare mendelian disease; X-linked dominate could not result in this outcome
+    - Father & Son have rare mendelian disease, mother not affected; autosomal dominate
+    - to identify genetic variants that increase risk of disease the African population should be studied as should all others
+    - in order of a SNP association to be statistically significant in GWAS, the p-value P < 5 x 10^-8. To get lower values: increase sample size, conduct meta analysis, improve specificity of case and control definitions
+    - GWAS identifying SNPs with trait. Often odds ratio are small. How big would odds ratio need to be to incorporate in clinical decision making: 5~10 for most traits
+    - Linkage analysis is powerful tool to identify genomic disease regions. Situation where linkage analysis best suited: Mendelian with 1+ pedigree
+    - Exome sequencing has been used to identify variants causing disease in all but: regulatory variants modulating common disease
